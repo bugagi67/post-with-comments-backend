@@ -1,6 +1,8 @@
 # Posts with comments* (задача со звёздочкой)
 
-GH-PAGES: 
+GH-PAGES: https://bugagi67.github.io/post-with-comments-frontend/
+
+BACKEND: https://post-with-comments-backend.onrender.com
 
 **Легенда**
 
